@@ -1,0 +1,6 @@
+Flask
+pyTelegramBotAPI
+pandas
+openpyxl
+fpdf
+python-docx
